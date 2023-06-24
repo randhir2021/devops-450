@@ -39,3 +39,6 @@ kubectl run nginx --image=nginx -n development
 kubectl get pods -n development
 ```
 
+## Create eks node role
+
+https://docs.aws.amazon.com/eks/latest/userguide/create-node-role.html
