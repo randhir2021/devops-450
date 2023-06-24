@@ -1,3 +1,7 @@
+# Kubernetes Cheatsheet 
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+
 ## Run a single container :
 
 ```
@@ -34,3 +38,4 @@ kubectl run nginx --image=nginx -n development
 ```
 kubectl get pods -n development
 ```
+
